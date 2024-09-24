@@ -1,5 +1,4 @@
 fromAddress1,fromAddress2,toAddress1,toAddress2,amount,dateTime,carType,driverName,invoiceFileName
-"B232, B-Block, Lohia Nagar","Ghaziabad, Uttar Pradesh 201001","Terminal 3, Indira Gandhi International Airport","New Delhi, Delhi 110037",1200,"01/07/2018 at 13:20","Maruti Suzuki Swift Dzire","Parminder","Home-Airport.png"
 "Trinity complex, Lido Mall, Bengaluru, Karnataka","Sampigehalli, Bengaluru, Karnataka","Sheshadripuram, Bengaluru, Karnataka","Bengaluru, Karnataka",570,"02/09/2024 at 11:15","Mahindra XUV500","Anil","Trinity-Sampigehalli.png"
 "Sampigehalli, Bengaluru, Karnataka","Benson Road, Bengaluru, Karnataka","Trinity complex, Lido Mall, Bengaluru, Karnataka","Bengaluru, Karnataka",550,"02/09/2024 at 16:30","Kia Seltos","Vikram","Sampigehalli-Trinity.png"
 "Trinity complex, Lido Mall, Bengaluru, Karnataka","Sheshadripuram, Bengaluru, Karnataka","V V Puram, Bengaluru, Karnataka","Bengaluru, Karnataka",430,"02/08/2024 at 11:45","Honda CR-V","Suresh","Trinity-Sheshadripuram.png"
